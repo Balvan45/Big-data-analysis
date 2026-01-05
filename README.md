@@ -1,4 +1,11 @@
+
 # Big Data Analysis Using PySpark
+COMPANY: CODETECH IT SOLUTIONS
+NAME:PATLOLA BALVAN KUMAR
+INTERN ID:CTIS1107
+DOMAIN:DATA ANALYTICS 
+DURATION:4 WEEKS 
+MENTOR:NEELA SANTHOSH
 
 ## Description
 This project demonstrates big data analytics on a large dataset using PySpark.
