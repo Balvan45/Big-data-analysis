@@ -25,8 +25,8 @@ distributed processing.
    python big_data_analysis.py
 
 ## Output
-- Region-wise total sales
-- Product-wise average sales
-- High sales count
-- Execution time
+Total Records: 1000000                                                                                                   
+Initial Partitions: 2                                                                  
+Partitions After Repartition: 8                                                            
+High Sales Count: 245678                                                                                                                               
 
